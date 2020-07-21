@@ -18,7 +18,7 @@
   </dmn:itemDefinition>&#xd;
   <dmn:inputData id="_86803DF6-4DD5-460C-A287-85C04F7148B3" name="DTI">&#xd;
     <dmn:extensionElements/>&#xd;
-    <dmn:variable id="_60AF96CB-FCE0-42DA-B3E8-195F18D5DF9F" name="DTI"/>&#xd;
+    <dmn:variable id="_60AF96CB-FCE0-42DA-B3E8-195F18D5DF9F" name="DTI" typeRef="DTI"/>&#xd;
   </dmn:inputData>&#xd;
   <dmn:inputData id="_9286AE83-E0C8-4463-8F47-7D3F9CF225D9" name="Credit Score">&#xd;
     <dmn:extensionElements/>&#xd;
