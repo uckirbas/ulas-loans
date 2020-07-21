@@ -69,7 +69,7 @@
       </dmn:rule>&#xd;
       <dmn:rule id="_B385ECD4-BE3D-4F97-8865-082EAB9639CE">&#xd;
         <dmn:inputEntry id="_308BB954-4578-4EDA-A05C-2310125FA5A0">&#xd;
-          <dmn:text>&gt;600</dmn:text>&#xd;
+          <dmn:text>&gt;660</dmn:text>&#xd;
         </dmn:inputEntry>&#xd;
         <dmn:inputEntry id="_1DA78E14-E754-4764-A4F1-77D4AE0F31EC">&#xd;
           <dmn:text>&gt;=0.38</dmn:text>&#xd;
