@@ -6,7 +6,7 @@ import org.drools.core.process.core.datatype.impl.type.BooleanDataType;
         [
             "name" : "RemoteDMNService",
             "displayName" : "RemoteDMNService",
-            "category" : "CUSTOM-WIHs",
+            "category" : "anadolu Taskss",
             "description" : "",
             "defaultHandler" : "mvel: new org.kie.server.client.integration.RemoteBusinessRuleTaskHandler()",
             "parameters" : [
