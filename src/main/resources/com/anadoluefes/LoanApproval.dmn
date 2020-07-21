@@ -7,6 +7,12 @@
       <dmn:text>"Approved", "Declined"</dmn:text>&#xd;
     </dmn:allowedValues>&#xd;
   </dmn:itemDefinition>&#xd;
+  <dmn:itemDefinition id="_963BB1DA-99DD-431F-B06D-136866B9816D" name="Credit Score" isCollection="false">&#xd;
+    <dmn:typeRef>number</dmn:typeRef>&#xd;
+    <dmn:allowedValues kie:constraintType="range" id="_7E20833C-C6B9-4B9E-954F-90038513C058">&#xd;
+      <dmn:text>[300..850]</dmn:text>&#xd;
+    </dmn:allowedValues>&#xd;
+  </dmn:itemDefinition>&#xd;
   <dmn:inputData id="_86803DF6-4DD5-460C-A287-85C04F7148B3" name="DTI">&#xd;
     <dmn:extensionElements/>&#xd;
     <dmn:variable id="_60AF96CB-FCE0-42DA-B3E8-195F18D5DF9F" name="DTI"/>&#xd;
