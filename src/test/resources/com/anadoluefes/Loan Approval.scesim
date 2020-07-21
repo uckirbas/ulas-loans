@@ -367,7 +367,7 @@
               <name>1|2</name>
               <type>GIVEN</type>
             </expressionIdentifier>
-            <rawValue class="string">0.99</rawValue>
+            <rawValue class="string">0.34</rawValue>
           </FactMappingValue>
           <FactMappingValue>
             <factIdentifier>
