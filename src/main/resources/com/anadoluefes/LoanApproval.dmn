@@ -19,7 +19,7 @@
   </dmn:inputData>&#xd;
   <dmn:inputData id="_9286AE83-E0C8-4463-8F47-7D3F9CF225D9" name="Credit Score">&#xd;
     <dmn:extensionElements/>&#xd;
-    <dmn:variable id="_220F901B-B65C-47A1-B7A2-4331EB04159C" name="Credit Score"/>&#xd;
+    <dmn:variable id="_220F901B-B65C-47A1-B7A2-4331EB04159C" name="Credit Score" typeRef="Credit Score"/>&#xd;
   </dmn:inputData>&#xd;
   <dmn:decision id="_772688D9-C144-463F-AD24-CF2BDC144427" name="LoanApproval">&#xd;
     <dmn:extensionElements/>&#xd;
