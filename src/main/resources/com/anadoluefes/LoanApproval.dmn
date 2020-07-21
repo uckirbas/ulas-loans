@@ -47,7 +47,7 @@
       <dmn:output id="_788C2C5A-F538-4332-8E35-E62487FBB32B"/>&#xd;
       <dmn:rule id="_321FA048-F340-49B3-AD3A-78B97702118A">&#xd;
         <dmn:inputEntry id="_B20B3B52-8C76-4726-8AC8-9F4E75EBAED9">&#xd;
-          <dmn:text>&lt;=600</dmn:text>&#xd;
+          <dmn:text>&lt;600</dmn:text>&#xd;
         </dmn:inputEntry>&#xd;
         <dmn:inputEntry id="_8FD9F8A7-9C84-4207-93CC-CFB156C3070B">&#xd;
           <dmn:text>-</dmn:text>&#xd;
