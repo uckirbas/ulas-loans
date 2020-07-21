@@ -13,6 +13,9 @@
       <dmn:text>[300..850]</dmn:text>&#xd;
     </dmn:allowedValues>&#xd;
   </dmn:itemDefinition>&#xd;
+  <dmn:itemDefinition id="_709B0666-36E2-4819-8A35-FE954C0C2241" name="DTI" isCollection="false">&#xd;
+    <dmn:typeRef>number</dmn:typeRef>&#xd;
+  </dmn:itemDefinition>&#xd;
   <dmn:inputData id="_86803DF6-4DD5-460C-A287-85C04F7148B3" name="DTI">&#xd;
     <dmn:extensionElements/>&#xd;
     <dmn:variable id="_60AF96CB-FCE0-42DA-B3E8-195F18D5DF9F" name="DTI"/>&#xd;
