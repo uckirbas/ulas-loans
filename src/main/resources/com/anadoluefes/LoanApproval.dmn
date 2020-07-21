@@ -58,7 +58,7 @@
       </dmn:rule>&#xd;
       <dmn:rule id="_E7D6D30E-D686-4105-B96E-F6531A74B3E6">&#xd;
         <dmn:inputEntry id="_3834D2D1-9BEF-4264-A551-B27D2047653B">&#xd;
-          <dmn:text>[600..660]</dmn:text>&#xd;
+          <dmn:text>(600..660]</dmn:text>&#xd;
         </dmn:inputEntry>&#xd;
         <dmn:inputEntry id="_329C9AE4-9B6E-49AA-8284-A70CC0DE27E5">&#xd;
           <dmn:text>&gt;=0.35</dmn:text>&#xd;
@@ -80,7 +80,7 @@
       </dmn:rule>&#xd;
       <dmn:rule id="_6DBCCCFB-2531-4841-963E-BD3294539CBD">&#xd;
         <dmn:inputEntry id="_0AA02C11-5CFE-4AA7-9170-F0CE03A0ACFA">&#xd;
-          <dmn:text>[600..660]</dmn:text>&#xd;
+          <dmn:text>(600..660]</dmn:text>&#xd;
         </dmn:inputEntry>&#xd;
         <dmn:inputEntry id="_17C29B50-C561-4820-914C-06E31531305F">&#xd;
           <dmn:text>&lt;0.35</dmn:text>&#xd;
